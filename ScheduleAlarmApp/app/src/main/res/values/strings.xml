@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Schedule Alarm</string>
+    <string name="set_alarm">Schedule Alarm</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="label_hint">Label (optional)</string>
+    <string name="repeat_daily">Repeat daily</string>
+    <string name="alarm_firing">Alarm</string>
+    <string name="stop_alarm">Stop</string>
+    <string name="notification_channel_name">Alarms</string>
+    <string name="notification_channel_desc">Alarm notifications</string>
+</resources>
